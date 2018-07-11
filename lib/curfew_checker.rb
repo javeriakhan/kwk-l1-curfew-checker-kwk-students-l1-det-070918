@@ -1,11 +1,11 @@
 def simple_curfew_checker(time)
-  if 4<5 
-    puts "Four is less than five."
+  if number==11 
+    puts "It is curfew."
 end
 
 def curfew_checker(time)
-  if 6<5
-    puts "Six is less than five."
+  if number<=11
+    puts "It is almost curfew."
   else
     puts "Six is not less than five."
 end
