@@ -14,6 +14,7 @@ def complex_curfew_checker(time)
   if 6<5
     puts "Six is less than five."
   elsif 6==6
+  
 end
 
 def deluxe_curfew_checker(time)
