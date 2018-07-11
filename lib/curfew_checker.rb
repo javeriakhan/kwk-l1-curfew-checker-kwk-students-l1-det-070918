@@ -4,21 +4,23 @@ def simple_curfew_checker(time)
 end
 
 def curfew_checker(time)
-  if number<=11
+  if number<11
     puts "It is almost curfew."
   else
-    puts "Six is not less than five."
+    puts "Go to your room."
 end
 
 def complex_curfew_checker(time)
-  if 6<5
-    puts "Six is less than five."
-  elsif 6==6
-  
+  if number<11
+    puts "You are okay."
+  elsif 11==11
+    puts "Apparate to your room.
+  else 
+    puts "You cannot be out.""
 end
 
 def deluxe_curfew_checker(time)
-  # code goes here
+  # code goe
 end
 
 def platinum_curfew_checker(current_time, curfew_time)
