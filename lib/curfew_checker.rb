@@ -16,11 +16,12 @@ def complex_curfew_checker(time)
   elsif 11==11
     puts "Apparate to your room.
   else 
-    puts "You cannot be out.""
+    puts "You cannot be out."
 end
 
 def deluxe_curfew_checker(time)
-  # code goe
+ curfew=11
+ puts "My curfew is at #{curfew}."
 end
 
 def platinum_curfew_checker(current_time, curfew_time)
